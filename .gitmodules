@@ -1,0 +1,4 @@
+[submodule "Astramilitarum"]
+	path = Astramilitarum
+	url = https://github.com/SOLARIUM-Collective/Astramilitarum.git
+	branch = terra

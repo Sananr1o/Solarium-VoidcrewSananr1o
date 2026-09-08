@@ -173,6 +173,7 @@ export const DmTarget = new Juke.Target({
     'maps/**/*.dm',
     'code/**',
     'voidcrew/**',
+    'Astramilitarum/**',
     'html/**',
     'icons/**',
     'interface/**',
