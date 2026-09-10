@@ -174,6 +174,7 @@ export const DmTarget = new Juke.Target({
     'code/**',
     'voidcrew/**',
     'Astramilitarum/**',
+    'Horusheresy/**',
     'html/**',
     'icons/**',
     'interface/**',
